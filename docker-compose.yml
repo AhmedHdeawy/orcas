@@ -30,8 +30,6 @@ services:
       - ./mysql:/var/lib/mysql
     environment: 
       MYSQL_DATABASE: orcas
-      MYSQL_USER: orcas
-      MYSQL_PASSWORD: ahmed12
       MYSQL_ROOT_PASSWORD: ahmed12
       SERVICE_TAG: dev
       SERVICE_NAME: mysql
