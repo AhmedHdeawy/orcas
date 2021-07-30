@@ -22,6 +22,21 @@ build the image.
 docker-compose up
 ```
 
+To Run the command which fetch users from Endpoints
+RUN
+
+```sh
+docker-compose exec php  sh
+```
+Then 
+
+```sh
+php artisan fetch:user
+```
+
+Notes: the above command will run automatically every 8 hours
+
+
 Verify the server running by navigating to your server address in
 your preferred browser.
 
