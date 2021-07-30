@@ -34,7 +34,7 @@ php artisan test
 ```
 
 ![alt text](https://ibb.co/YZTNrrW)
-[![N|Solid](https://ibb.co/YZTNrrW)](https://nodesource.com/products/nsolid)
+
 
 ## License
 
