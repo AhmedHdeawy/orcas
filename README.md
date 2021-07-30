@@ -6,6 +6,12 @@
 - Handle all Acceptance Criteria.
 - easy to install in a Docker container.
 
+## Run without Docker
+
+You can clone The Project without Docker from
+[Repo Link](https://github.com/AhmedHdeawy/orcas-task)
+
+
 ## Run with Docker
 
 By default, the Docker will expose port 8080, so change this within the
